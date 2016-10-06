@@ -1,0 +1,17 @@
+{
+  "name": "jsfn",
+  "version": "0.1.0",
+  "description": "executes a function defined inline",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "jsfn": "jsfn.js"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
