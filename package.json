@@ -1,12 +1,12 @@
 {
   "name": "jsfn",
   "version": "0.1.0",
-  "description": "executes a function defined inline",
+  "description": "Node cli tool to execute js within a closure on each line of stdin.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Jason Wang",
+  "license": "MIT",
   "preferGlobal": true,
   "bin": {
     "jsfn": "jsfn.js"
